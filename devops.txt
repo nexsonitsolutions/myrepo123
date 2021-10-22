@@ -5,4 +5,5 @@ Devops course curriculum
 4. Sonarqube
 5. Maven
 6. Docker
-
+7. Kubernetes
+8. Ansible
