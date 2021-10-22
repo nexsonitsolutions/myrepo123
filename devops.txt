@@ -3,3 +3,6 @@ Devops course curriculum
 2. Git and Github
 3. Jenkins
 4. Sonarqube
+5. Maven
+6. Docker
+
