@@ -4,3 +4,7 @@ Devops course curriculum
 3. Jenkins
 4. Sonarqube
 5. Nexus
+6. Sonarqube
+7 ELK
+8.Maven
+9. Newrelic
