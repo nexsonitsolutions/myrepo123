@@ -7,3 +7,7 @@ Devops course curriculum
 6. NewRelic
 7. Prometheus
 8. Jira
+5. Maven
+6. Docker
+7. Kubernetes
+8. Ansible
