@@ -1,10 +1,9 @@
 Devops course curriculum
 1. Linux and Shell Scripting
-2. Git and Github
-3. Jenkins
-4. Sonarqube
-5. Nexus
-6. Sonarqube
+2. Git and Github - version controlling
+3. Jenkins - CICD
+4. Sonarqube - Code validation
+5. Nexus - mgmt
 7 ELK
-8.Maven
-9. Newrelic
+8.Maven - build
+Jira -Issue tracking Tool
